@@ -1,7 +1,9 @@
 
 # How to create ssh-key?
 * run powershell as administrator
-* run '''ssh-keygen -t ed25519 -C "email.email.com"'''
+* run '''
+ssh-keygen -t ed25519 -C "email.email.com"
+'''
 
 # How to add key to github account?
 * go to 'settings -> SSH and GPG keys -> new ssh key'
